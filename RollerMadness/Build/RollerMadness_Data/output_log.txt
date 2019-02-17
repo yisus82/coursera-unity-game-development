@@ -1,0 +1,44 @@
+Initialize engine version: 5.5.4p4 (e92bef0ab5a4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 780M (ID=0x119f)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   20.19.15.4463
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\djalm_000\Downloads\Unity\RollerMadness\Build\RollerMadness_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\djalm_000\Downloads\Unity\RollerMadness\Build\RollerMadness_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\djalm_000\Downloads\Unity\RollerMadness\Build\RollerMadness_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\djalm_000\Downloads\Unity\RollerMadness\Build\RollerMadness_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\djalm_000\Downloads\Unity\RollerMadness\Build\RollerMadness_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\djalm_000\Downloads\Unity\RollerMadness\Build\RollerMadness_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\djalm_000\Downloads\Unity\RollerMadness\Build\RollerMadness_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\djalm_000\Downloads\Unity\RollerMadness\Build\RollerMadness_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\djalm_000\Downloads\Unity\RollerMadness\Build\RollerMadness_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\djalm_000\Downloads\Unity\RollerMadness\Build\RollerMadness_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\djalm_000\Downloads\Unity\RollerMadness\Build\RollerMadness_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\djalm_000\Downloads\Unity\RollerMadness\Build\RollerMadness_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.021 seconds
+Platform assembly: C:\Users\djalm_000\Downloads\Unity\RollerMadness\Build\RollerMadness_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\djalm_000\Downloads\Unity\RollerMadness\Build\RollerMadness_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.011296 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 22b8 -> priority: 1 
+  Thread -> id: 1444 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.245080 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 526.
+Total: 0.304488 ms (FindLiveObjects: 0.030410 ms CreateObjectMapping: 0.013684 ms MarkObjects: 0.255831 ms  DeleteObjects: 0.004181 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.634065 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 499.
+Total: 0.306769 ms (FindLiveObjects: 0.035352 ms CreateObjectMapping: 0.014825 ms MarkObjects: 0.252029 ms  DeleteObjects: 0.003801 ms)
+
